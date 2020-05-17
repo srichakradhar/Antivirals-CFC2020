@@ -1,8 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://srichakradhar.github.io/Antivirals-CFC2020/)
 
-# Submission name
-
-## Antivirals-CFC2020: News Disinfectant Chatbot
+# Antivirals-CFC2020: News Disinfectant Chatbot
 Antivirals Call for Code 2020 - Fight Fake News
 
 Fake news can have dangerous consequesnces, if left unchecked and can be made believed by large groups of people. There are a few anti-social elements which encourage this idea. Our aim is to fight the news with a highly available IBM Watson chatbot service.
