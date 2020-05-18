@@ -38,7 +38,7 @@ Help the people to identify fake news with a chatbot trained on automated valida
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://user-images.githubusercontent.com/1732922/82170024-498eda00-9891-11ea-803d-a176df9bf602.png)](https://youtu.be/TnksZJwHZOE)
 
 ## The "Disinfectant" architecture
 
